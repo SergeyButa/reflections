@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would want to make changes in separate branch when I'm not sure in future changes and want to discuss them with another contributors to project.
