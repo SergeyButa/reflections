@@ -12,7 +12,7 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    I would use forks to work on projects from another authors (to experiment with the code, adding some features, etc.). I would use clones to work on my projects in collaboration with another programmers, or when I need to work on project from different places/several computers. I would use branches to experiment with my code or add  new features to it.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
