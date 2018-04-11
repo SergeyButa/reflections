@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+    It helps locate places where changes were applied. If program worked well before changes it's almost 100% chance, that bugs were caused by changes in file.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+    It helps see evolution of code, I can in any moment see what methods I've used to solve problems in past.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+    Pros: very flexible, user can determine logically what change in code to commit
+    Cons: user should remember to commit, when automatic saving can do it without user notice
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+    It's because of initial purpose of each system. Google Docs system was designed for working with individual files.
+    Otherwise GIT was designed for working on programming projects, which can contain a lot of connected files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+    With the command 'git log' we can find short description and id of each commit, then with command 'git diff' we can find changes applied to program in commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+    Version control system makes me far more confident to make changes in my programs, because with that system I can revert any changes in any time.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+    I want to try Git for experimenting with my Android examples programs, and to simplify working with this programs on different PCs.
